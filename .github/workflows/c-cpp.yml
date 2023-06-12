@@ -1,2 +1,0 @@
- gcc tetris.c -lncurses
- ./a.out
